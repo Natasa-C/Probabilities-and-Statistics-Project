@@ -17,8 +17,6 @@ mean, median, variance, quantiles and Laplace distribution, regarding a R data s
 - GGally
 - scatterplot3d
 
-## Team
-
+### Project done in collaboration with:
 - [Ana Puiu](https://github.com/AMAPuiu)
-- [Natasa Cirstea](https://github.com/Natasa-C) 
-- [Madalina Cirstea](https://github.com/madalina-cirstea)
+- [Madalina Cirstea](https://github.com/madalina-cirstea) 
